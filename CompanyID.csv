@@ -1,0 +1,501 @@
+﻿CompanyName,ID Number,Notes,Industry,Revenues ($m),Profits($m)
+Wal-Mart Stores,1,,general merchandisers,469162,"16,999"
+Exxon Mobil,2,,petroleum refining,449886,44880
+Chevron,3,,petroleum refining,233899,26179
+Phillips 66,4,,petroleum refining,169551,4124
+Berkshire Hathaway,5,no info on website,insurance: property and casualty (stock),162463,14824
+Apple,6,,"computers, office equipment",156508,41733
+General Motors,7,,motor vehicles and parts,152256,6188
+General Electric,8,,diversified financials,146874,13641
+Valero Energy,9,,petroleum refining,138286,2083
+Ford Motor,10,,motor vehicles and parts,134252,5665
+AT&T,11,,telecommunications,127434,7264
+Fannie Mae,12,,diversified financials,127230,17220
+CVS Caremark,13,,food and drug stores,123133,3876.9
+McKesson,14,,wholesalers: health care,122734,1403
+Hewlett-Packard,15,,"computers, office equipment",120357,-12650
+Verizon Communications,16,,telecommunications,115846,875
+UnitedHealth Group,17,,health care: insurance and managed care,110618,5526
+J.P. Morgan Chase & Co.,18,,commercial banks,108184,21284
+Cardinal Health,19,,wholesalers: health care,107552,1069
+International Business Machines,20,,information technology services,104507,16604
+Bank of America Corp,21,,commercial banks,100078,4188
+Costco Wholesale,22,,specialty retailers: other,99137,1709
+Kroger,23,,food and drug stores,96751.3,1496.5
+Express Scripts Holding,24,,health care: pharmacy and other services,94416.7,1312.9
+Wells Fargo,25,,commercial banks,91247,18897
+Citigroup,26,,commercial banks,90769,7541
+Archer Daniels Midland,27,,food production,89038,1223
+Procter & Gamble,28,,household and personal products,85120,10756
+Prudential Financial,29,,"insurance: life, health (stock)",84838,469
+Boeing,30,,aerospace and defense,81698,3900
+Freddie Mac,31,,diversified financials,80635,10982
+AmerisourceBergen,32,,wholesalers: health care,79720.5,719
+Marathon Petroleum,33,,petroleum refining,76783,3389
+Home Depot,34,,specialty retailers: other,74754,4535
+Microsoft,35,,computer software,73723,16978
+Target,36,,general merchandisers,73301,2999
+Walgreen,37,,food and drug stores,71633,2127
+American International Group,38,,insurance: property and casualty (stock),70143,3438
+INTL FCStone,39,,diversified financials,69260.6,15
+MetLife,40,,"insurance: life, health (stock)",68224,1324
+Johnson & Johnson,41,,pharmaceuticals,67224,10853
+Caterpillar,42,,construction and farm machinery,65875,5681
+PepsiCo,43,,food consumer products,65492,6178
+State Farm Insurance Cos.,44,,insurance: property and casualty,65285.7,3159.2
+ConocoPhillips,45,,"mining, crude-oil production",63373,8428
+Comcast,46,,telecommunications,62570,6203
+WellPoint,47,,health care: insurance and managed care,61711.7,2655.5
+Pfizer,48,,pharmaceuticals,61244,14570
+Amazon.com,49,,internet services and retailing,61093,-39
+United Technologies,50,,aerospace and defense,59783,5130
+Dell,51,,"computers, office equipment",56940,2372
+Dow Chemical,52,,chemicals,56786,1182
+United Parcel Service,53,,"mail, package, and freight delivery",54127,807
+Intel,54,,semiconductors and other electronic components,53341,11005
+Google,55,,internet services and retailing,52203,10737
+Lowe's,56,,specialty retailers: other,50521,1959
+Coca-Cola,57,,beverages,48017,9019
+Merck,58,,pharmaceuticals,47267,6168
+Lockheed Martin,59,,aerospace and defense,47182,2745
+Cisco Systems,60,,network and other communications equipment,46061,8041
+Best Buy,61,,specialty retailers: other,45087,-441
+Safeway,62,,food and drug stores,44206.5,596.5
+FedEx,63,,"mail, package, and freight delivery",42680,2032
+Enterprise Products Partners,64,,pipelines,42583.1,2419.9
+Sysco,65,,wholesalers: food and grocery,42380.9,1121.6
+Walt Disney,66,,entertainment,42278,5682
+Johnson Controls,67,,motor vehicles and parts,41955,1226
+Goldman Sachs Group,68,,commercial banks,41664,7475
+CHS,69,,wholesalers: food and grocery,40599.3,1260.6
+Abbott Laboratories,70,,pharmaceuticals,39873.9,5962.9
+Sears Holdings,71,,general merchandisers,39854,-930
+DuPont,72,,chemicals,39528,2788
+Humana,73,,health care: insurance and managed care,39126,1222
+World Fuel Services,74,,wholesalers: diversified,38945.3,189.3
+Hess,75,,petroleum refining,38373,2025
+Ingram Micro,76,,wholesalers: electronics and office equipment,37827.3,305.9
+Plains All American Pipeline,77,,pipelines,37797,1094
+Honeywell International,78,,aerospace and defense,37665,2926
+United Continental Holdings,79,,airlines,37152,-723
+Oracle,80,,computer software,37121,9981
+Liberty Mutual Insurance Group,81,,insurance: property and casualty (stock),36944,829
+HCA Holdings,82,,health care: medical facilities,36783,1605
+Delta Air Lines,83,,airlines,36670,1009
+Aetna,84,,health care: insurance and managed care,36595.9,1657.9
+Deere,85,,construction and farm machinery,36157.1,3064.7
+Supervalu,86,,food and drug stores,36100,-1040
+Sprint Nextel,87,,telecommunications,35345,-4326
+Mondelez International,88,,food consumer products,35015,3028
+New York Life Insurance,89,,"insurance: life, health (mutual)",34308.6,1333.2
+American Express,90,,commercial banks,33808,4482
+News Corp.,91,,entertainment,33706,1179
+Allstate ,92,,insurance: property and casualty (stock),33315,2306
+Tyson Foods,93,,food production,33278,583
+Massachusetts Mutual Life Insurance,94,,"insurance: life, health (mutual)",32872.2,1114.6
+Tesoro,95,,petroleum refining,32484,743
+Morgan Stanley,96,,commercial banks,32355,68
+TIAA-CREF,97,,"insurance: life, health (mutual)",32156,2060
+General Dynamics,98,,aerospace and defense,31513,-332
+Philip Morris International,99,,tobacco,31377,8800
+Nationwide,100,,insurance: property and casualty,30356.3,748.5
+3M,101,,zMiscellaneous,29904,4444
+DirecTV,102,,telecommunications,29740,2949
+Cigna,103,,health care: insurance and managed care,29119,1623
+Murphy Oil,104,,petroleum refining,28776.4,970.9
+Time Warner,105,,entertainment,28729,3019
+Halliburton,106,,"oil and gas equipment, services",28503,2635
+International Paper,107,,forest and paper products,27833,794
+Publix Super Markets,108,,food and drug stores,27706.8,1552.3
+Macy's,109,,general merchandisers,27686,1335
+Fluor,110,,"engineering, construction",27577.1,456.3
+McDonald's,111,,food services,27567,5464.8
+Hartford Financial Services Group,112,,insurance: property and casualty (stock),26412,-38
+Rite Aid,113,,food and drug stores,26121.2,-368.6
+Northwestern Mutual,114,,"insurance: life, health (mutual)",25957,783
+TJX,115,,speciality retailers: apparel,25878.4,1906.7
+Travelers Cos.,116,,insurance: property and casualty (stock),25740,2473
+Avnet,117,,wholesalers: electronics and office equipment,25707.5,567
+Aflac,118,,"insurance: life, health (stock)",25364,2866
+Tech Data,119,,wholesalers: electronics and office equipment,25361,214.6
+Northrop Grumman,120,,aerospace and defense,25218,1978
+AMR,121,no info on website,airlines,24855,-1876
+Staples,122,,specialty retailers: other,24671.9,-210.7
+Emerson Electric,123,,"electronics, electrical equipment",24507,1968
+Raytheon,124,,aerospace and defense,24414,1888
+Occidental Petroleum,125,,"mining, crude-oil production",24253,4598
+Nike,126,,apparel,24128,2223
+Capitol One Financial,127,,commercial banks,23771,3517
+Alcoa,128,,metals,23700,191
+Exelon,129,,utilities: gas and electric,23489,1160
+Eli Lilly,130,,pharmaceuticals,22603.4,4088.6
+Xerox,131,,information technology services,22390,1195
+U.S. Bancorp,132,,commercial banks,22202,5647
+EMC,133,,computer peripherals,21713.9,2732.6
+Time Warner Cable,134,,telecommunications,21386,2155
+Baker Hughes,135,,"oil and gas equipment, services",21361,1311
+Kimberly-Clark,136,,household and personal products,21063,1750
+Goodyear Tire & Rubber,137,,motor vehicles and parts,20992,212
+Union Pacific,138,,railroads,20926,3943
+United Services Automobile Assn.,139,,insurance: property and casualty (stock),20728.6,2832.3
+Manpower Group,140,,temporary help,20678,197.6
+Arrow Electronics,141,,wholesalers: electronics and office equipment,20405.1,506.3
+PBF Energy,142,,petroleum refining,20138.7,2
+HollyFrontier,143,,petroleum refining,20090.7,1727.2
+National Oilwell Varco,144,,"oil and gas equipment, services",20041,2491
+Duke Energy,145,,utilities: gas and electric,19624,1768
+Nucor,146,,metals,19429.3,504.6
+United States Steel,147,,metals,19328,-124
+Kohl's,148,,general merchandisers,19279,986
+Qualcomm,149,,network and other communications equipment,19121,6109
+CenturyLink,150,,telecommunications,18376,777
+Kraft Foods Group,151,,food consumer products,18339,1642
+Danaher,152,,"scientific, photographic, and control equipment",18270.3,2392.2
+AES,153,,utilities: gas and electric,18207,-912
+Whirlpool,154,,"electronics, electrical equipment",18143,401
+Illinois Tool Works,155,,industrial machinery,18066,2870
+Freeport-McMoRan Copper & Gold,156,,"mining, crude-oil production",18010,3041
+Global Partners,157,,wholesalers: diversified,17626,45.5
+Bristol-Myers Squibb,158,,pharmaceuticals,17621,1960
+Altria Group,159,,tobacco,17500,4180
+Cummins,160,,construction and farm machinery,17334,1645
+Energy Transfer Equity,161,,pipelines,17288,302
+Amgen,162,,pharmaceuticals,17265,4345
+Jabil Circuit,163,,semiconductors and other electronic components,17151.9,394.7
+Southwest Airlines,164,,airlines,17088,421
+Colgate-Palmolive,165,,household and personal products,17085,2472
+Progressive,166,,insurance: property and casualty (stock),17083.9,902.3
+Apache,167,,"mining, crude-oil production",17078,2001
+Paccar,168,,motor vehicles and parts,17050.5,1111.6
+General Mills,169,,food consumer products,16657.9,1567.3
+PNC Financial Services Group,170,,commercial banks,16606,3013
+Southern,171,,utilities: gas and electric,16537,2350
+Medtronic,172,,medical products and equipment,16507,3617
+TRW Automotive Holdings,173,,motor vehicles and parts,16444,1008
+Marathon Oil,174,,"mining, crude-oil production",16221,1582
+Dollar General,175,,general merchandisers,16022.1,952.7
+Computer Sciences,176,,information technology services,15877,-4242
+AutoNation,177,,"automotive retailing, services",15668.8,316.4
+Icahn Enterprises,178,no info on website,motor vehicles and parts,15654,379
+Gap,179,,speciality retailers: apparel,1561,1135
+Bank of New York Mellon Corp.,180,,commercial banks,15493,2445
+FirstEnergy,181,,utilities: gas and electric,15303,770
+PPG Industries,182,,chemicals,15200,941
+PG&E Corp.,183,,utilities: gas and electric,15040,816
+Community Health Systems,184,,health care: medical facilities,14988.2,265.6
+American Electric Power,185,,utilities: gas and electric,14945,1259
+CBS,186,,entertainment,14677,1574
+Lear,187,,motor vehicles and parts,14567,1282.8
+Loews,188,,insurance: property and casualty (stock),14552,568
+DISH Network,189,,telecommunications,14266.5,636.7
+NextEra Energy,190,,utilities: gas and electric,14256,1911
+Omnicom Group,191,,"advertising, marketing",14219.4,998.3
+Kellogg,192,,food consumer products,14197,961
+Baxter International,193,,medical products and equipment,14190,2326
+Land O'Lakes,194,,food consumer products,14116.2,240.4
+Coventry Health Care,195,,health care: insurance and managed care,14113.4,487.1
+eBay,196,,internet services and retailing,14072,2609
+L-3 Communications,197,,aerospace and defense,14057,810
+Viacom,198,,entertainment,13887,1981
+US Airways Group,199,no info on website,airlines,13831,637
+Waste Management,200,,waste management,13649,817
+Yum Brands,201,,food services,13633,1597
+Chubb,202,,insurance: property and casualty (stock),13595,1545
+Penske Automotive Group,203,,"automotive retailing, services",13593.2,185.5
+"Toys ""R"" Us",204,,specialty retailers: other,13543,38
+Aramark,205,,diversified outsourcing services,13505.4,138.2
+Monsanto,206,,chemicals,13504,2045
+Anadarko Petroleum,207,,"mining, crude-oil production",13411,2391
+Starbucks,208,,food services,13299.5,1383.8
+ConAgra Foods,209,,food consumer products,13263.1,467.9
+Dominion Resources,210,,utilities: gas and electric,13150,302
+Parker-Hannifin,211,,industrial machinery,13145.9,1151.8
+Edison International,212,,utilities: gas and electric,13104,-183
+Smithfield Foods,213,,food production,13094.3,361.3
+Genuine Parts,214,,wholesalers: diversified,13013.9,648
+J.C. Penney,215,,general merchandisers,12985,-985
+Navistar International,216,,motor vehicles and parts,12948,-3010
+Dean Foods,217,,food consumer products,12900.6,158.6
+Texas Instruments,218,,semiconductors and other electronic components,12825,1759
+Oneok,219,,pipelines,12660.2,360.6
+Thermo Fisher Scientific,220,,"scientific, photographic, and control equipment",12657,1177.9
+Ally Financial,221,,commercial banks,12643,1196
+Western Digital,222,,computer peripherals,21713.9,2732.6
+Chesapeake Energy,223,,"mining, crude-oil production",12316,-769
+PPL,224,,utilities: gas and electric,12286,1526
+Textron,225,,aerospace and defense,12237,589
+Consolidated Edison,226,,utilities: gas and electric,12188,1138
+Nordstrom,227,,general merchandisers,12148,735
+Marsh & McLennan,228,,diversified financials,11924,1176
+Ecolab,229,,chemicals,11838.7,703.6
+Marriott International,230,,"hotels, casinos, resorts",11814,571
+CSX,231,,railroads,11756,1859
+Whole Foods Market,232,,food and drug stores,11698.8,465.6
+EOG Resources,233,,"mining, crude-oil production",11682.6,570.3
+H.J. Heinz,234,,food consumer products,11649.1,923.2
+Lincoln National,235,,"insurance: life, health (stock)",11532,1313
+Health Net,236,,health care: insurance and managed care,11481.2,122.1
+C.H. Robinson Worldwide,237,,transportation & logistics,11359.1,593.8
+Guardian Life Ins. Co. of America,238,,"insurance: life, health (mutual)",11293.9,265.8
+SunTrust Banks,239,,commercial banks,11240,1958
+SAIC,240,,information technology services,11229,525
+Huntsman,241,,chemicals,11224,363
+Praxair,242,,chemicals,11224,1692
+Peter Kiewit Sons',243,,"engineering, construction",11220,290
+Las Vegas Sands,244,,"hotels, casinos, resorts",11131.1,1524.1
+Stanley Black & Decker,245,,"home equipment, furnishings",11121.1,883.8
+Mosaic,246,,chemicals,11107.8,1930.2
+Norfolk Southern,247,,railroads,11040,1749
+URS,248,,"engineering, construction",10972.5,310.6
+Jacobs Engineering Group,249,,"engineering, construction",10893.8,379
+VF,250,,apparel,10879.9,1086
+BB&T Corp.,251,,commercial banks,10737,1979
+Avon Products,252,,household and personal products,10717.1,-42.5
+Office Depot,253,,specialty retailers: other,10695.7,-77.1
+First Data,254,,financial data services,10680.3,-700.9
+Automatic Data Processing,255,,diversified outsourcing services,10665.2,1388.5
+Liberty Global,256,,telecommunications,10604.5,322.8
+Unum Group,257,,"insurance: life, health (stock)",10515.4,894.4
+L Brands,258,,speciality retailers: apparel,10458.7,753
+CarMax,259,,"automotive retailing, services",10453.8,413.8
+Visa,260,,financial data services,10421,2144
+Entergy,261,,utilities: gas and electric,10302.1,846.7
+Synnex,262,no info on website,wholesalers: electronics and office equipment,10285.5,151.4
+Ameriprise Financial,263,,diversified financials,10259,1029
+R.R. Donnelley & Sons,264,,"publishing, printing",10221.9,-651.4
+Kinder Morgan,265,,pipelines,10200,315
+Xcel Energy,266,,utilities: gas and electric,10128.2,905.2
+CDW,267,,information technology services,10128.2,119
+State Street Corp.,268,,commercial banks,10125,2061
+Tenet Healthcare,269,,health care: medical facilities,10058,152
+Liberty Interactive,270,,internet services and retailing,10054,1530
+Genworth Financial,271,,"insurance: life, health (stock)",10023,323
+AGCO,272,,construction and farm machinery,9962.2,522.1
+Air Products & Chemicals,273,,chemicals,9869.7,1167.3
+Newmont Mining,274,,"mining, crude-oil production",9868,1809
+Reinsurance Group of America,275,,"insurance: life, health (stock)",9840.9,631.9
+Public Service Enterprise Group,276,,utilities: gas and electric,9781,1275
+KKR,277,,securities,9739.6,560.8
+Ross Stores,278,,speciality retailers: apparel,9721.1,786.8
+Estee Lauder,279,,household and personal products,9713.6,856.9
+Gilead Sciences,280,,pharmaceuticals,9702.5,2591.6
+Sempra Energy,281,,utilities: gas and electric,9647,859
+Sherwin-Williams,282,,chemicals,9534.5,631
+Western Refining,283,,petroleum refining,9503.1,398.9
+Devon Energy,284,,"mining, crude-oil production",9502,-206
+Bed Bath & Beyond,285,,specialty retailers: other,9499.9,989.5
+BlackRock,286,,securities,9337,2458
+Family Dollar Stores,287,,general merchandisers,9331,422.2
+Hillshire Brands,288,,food consumer products,9323,845
+Leucadia National,289,no info on website,food production,9293.9,854.5
+Principal Financial,290,,"insurance: life, health (stock)",9215.1,805.9
+Rock-Tenn,291,,"packaging, containers",9207.6,249.1
+MGM Resorts International,292,,"hotels, casinos, resorts",9160.8,-1767.7
+Hertz Global Holdings,293,,"automotive retailing, services",9020.8,243.1
+Discover Financial Services,294,,commercial banks,8984,2345
+W.W. Grainger,295,,wholesalers: diversified,8950,689.9
+Henry Schein,296,,wholesalers: health care,8940,388.1
+Owens & Minor,297,,wholesalers: health care,8908.1,109
+GameStop,298,,specialty retailers: other,8886.7,-269.7
+DTE Energy,299,,utilities: gas and electric,8846,610
+Caesars Entertainment,300,,"hotels, casinos, resorts",8798.7,-1497.5
+Ball,301,,"packaging, containers",8735.7,403.5
+Applied Materials,302,,semiconductors and other electronic components,8719,109
+Centene,303,,health care: insurance and managed care,8703.6,1.9
+Motorola Solutions,304,,network and other communications equipment,8698,881
+Stryker,305,,medical products and equipment,8657,1298
+AutoZone,306,,specialty retailers: other,8603.9,930.4
+Sonic Automotive,307,,"automotive retailing, services",8548.4,89.1
+Dover,308,,industrial machinery,8538.8,811.1
+Assurant,309,,insurance: property and casualty (stock),8508.3,483.7
+Cameron International,310,,"oil and gas equipment, services",8502.1,750.5
+DaVita HealthCare Partners,311,,health care: medical facilities,8489.5,536
+Crown Holdings,312,,"packaging, containers",8470,557
+Reliance Steel & Aluminum,313,,metals,8442.3,403.5
+NRG Energy,314,,energy,8422,559
+Peabody Energy,315,,"mining, crude-oil production",8306.6,-585.7
+Reynolds American,316,,tobacco,8304,1272
+Autoliv,317,,motor vehicles and parts,8266.7,483.1
+Micron Technology,318,,semiconductors and other electronic components,8234,-1032
+Hormel Foods,319,,food consumer products,8230.7,500.1
+AECOM Technology,320,,"engineering, construction",8218.2,-58.6
+Ashland,321,,chemicals,8206,26
+Oshkosh,322,,motor vehicles and parts,8193.3,230.8
+Republic Services,323,,waste management,8118.3,571.8
+Eastman Chemical,324,,chemicals,8102,437
+Thrivent Financial for Lutherans,325,,"insurance: life, health (mutual)",8018.4,487.6
+Corning,326,,network and other communications equipment,8012,1728
+Broadcom,327,,semiconductors and other electronic components,8006,719
+Darden Restaurants,328,,food services,7998.7,475.5
+TravelCenters of America,329,,specialty retailers: other,7995.7,32.2
+HD Supply,330,,wholesalers: diversified,7994,-639
+Spectrum Group International,331,,zMiscellaneous,7974.8,4.1
+Becton Dickinson,332,,medical products and equipment,7946.8,1169.9
+Sealed Air,333,,"packaging, containers",7921.6,-1410.3
+KBR,334,,"engineering, construction",7921,144
+Commercial Metals,335,,metals,7859,207.5
+Masco,336,,"home equipment, furnishings",7816,-114
+Universal Health Services,337,,health care: medical facilities,7783.3,443.4
+Campbell Soup,338,,food consumer products,7707,774
+Coca-Cola Enterprises,339,,beverages,7562,677
+Charter Communications,340,,telecommunications,7504,-304
+Quest Diagnostics,341,,health care: pharmacy and other services,7499.5,555.7
+Williams,342,,energy,7486,859
+Group 1 Automotive,343,,"automotive retailing, services",7476.1,100.2
+CenterPoint Energy,344,,utilities: gas and electric,7452,417
+WellCare Health Plans,345,,health care: insurance and managed care,7409,184.7
+Dollar Tree,346,,specialty retailers: other,7394.5,619.3
+Pantry,347,,specialty retailers: other,7393.6,-2.5
+Master Card,348,,financial data services,7391,2759
+Tenneco,349,,motor vehicles and parts,7363,275
+Avis Budget Group,350,,"automotive retailing, services",7357,290
+Terex,351,,construction and farm machinery,7348.4,105.8
+Cognizant Technology Solutions,352,,information technology services,7346.5,1051.3
+Fidelity National Financial,353,,insurance: property and casualty (stock),7326.1,606.5
+Steel Dynamics,354,,metals,7290.2,163.6
+Precision Castparts,355,,aerospace and defense,7278.3,1224.1
+Dana Holding,356,,motor vehicles and parts,7258,300
+Boston Scientific,357,,medical products and equipment,7249,-4068
+BorgWarner,358,,motor vehicles and parts,7183.2,500.9
+Visteon,359,,motor vehicles and parts,7154,100
+Barnes & Noble,360,,specialty retailers: other,7129.2,-68.9
+Fifth Third Bancorp,361,,commercial banks,7106,1576
+Franklin Resources,362,,securities,7101,1931.4
+Weyerhaeuser,363,,forest and paper products,7059,385
+Owens-Illinois,364,,"packaging, containers",7000,184
+Alpha Natural Resources,365,,"mining, crude-oil production",6974.9,-2437.1
+Interpublic Group,366,,"advertising, marketing",6956.2,446.7
+OfficeMax,367,,specialty retailers: other,6920.4,416.8
+Core-Mark Holding,368,,wholesalers: food and grocery,6905.4,33.9
+Pacific Life,369,,"insurance: life, health (stock)",6874,460
+Ralph Lauren,370,,apparel,6859.5,681
+Agilent Technologies,371,,"scientific, photographic, and control equipment",6858,1153
+Dole Food,372,,food consumer products,6832.3,-144.5
+Ameren,373,,utilities: gas and electric,6828,-974
+Mylan,374,,pharmaceuticals,6796.1,640.9
+Avery Dennison,375,,chemicals,6761.6,215.4
+Health Management Associates,376,,health care: medical facilities,6760.9,164.3
+PetSmart,377,,specialty retailers: other,6758.2,389.5
+Dillard's,378,no info on website,general merchandisers,6751.6,336
+Symantec,379,,computer software,6730,1172
+Huntington Ingalls Industries,380,,aerospace and defense,6708,146
+Enbridge Energy Partners,381,,pipelines,6706.1,493.1
+Cablevision Systems,382,,telecommunications,6705.5,233.5
+Jarden,383,,"home equipment, furnishings",6696.1,243.9
+Hershey,384,,food consumer products,6644.3,660.9
+WESCO International,385,,wholesalers: diversified,6579.3,201.8
+Ingredion,386,,food production,6532.1,427.5
+CBRE Group,387,,real estate,6519.8,315.6
+UGI,388,,energy,6519.2,199.4
+NuStar Energy,389,,pipelines,6516.8,-226.6
+McGraw-Hill,390,"Two sections, no overarching website","publishing, printing",6512,437
+Vanguard Health Systems,391,,health care: medical facilities,6488.4,57.3
+Casey's General Stores,392,,specialty retailers: other,6460.8,116.8
+American Family Insurance Group,393,,insurance: property and casualty (stock),6456.8,360.5
+Mutual of Omaha Insurance,394,,"insurance: life, health (stock)",6437,283.8
+Mattell,395,,"toys, sporting goods",6420.9,776.5
+Celanese,396,,chemicals,6418,605
+Quanta Services,397,,"engineering, construction",6413.5,306.6
+Level 3 Communications,398,,telecommunications,6376,-422
+EMCOR Group,399,,"engineering, construction",6346.7,146.6
+Starwood Hotels & Resorts,400,,"hotels, casinos, resorts",6321,562
+Regions Financial,401,,commercial banks,6275,1120
+Northeast Utilities,402,,utilities: gas and electric,6273.8,525.9
+Rockwell Automation,403,,"electronics, electrical equipment",6259.4,737
+Ryder System,404,,"trucking, truck leasing",6257,210
+Anixter International,405,,wholesalers: diversified,6253.1,124.8
+CMS Energy,406,,utilities: gas and electric,6253,382
+CC Media Holdings,407,,entertainment,6246.9,-424.5
+Net App,408,,computer peripherals,21713.9,2732.6
+Advance Auto Parts,409,,specialty retailers: other,6205,387.7
+Kindred Healthcare,410,,health care: medical facilities,6190.7,-40.4
+Seaboard,411,,food production,6189.1,282.3
+O'Reilly Automotive,412,,specialty retailers: other,6182.2,585.7
+Foot Locker,413,,speciality retailers: apparel,6182,397
+Windstream,414,,telecommunications,6169.2,168
+CH2M Hill,415,,"engineering, construction",6160.6,93
+Omnicare,416,,health care: pharmacy and other services,6160.4,194.9
+FMC Technologies,417,,"oil and gas equipment, services",6151.4,430
+SLM,418,,diversified financials,6110,939
+CF Industries Holdings,419,,chemicals,6104,1848.7
+Sanmina,420,,semiconductors and other electronic components,6093.3,180.2
+NII Holdings,421,no info on website,telecommunications,6086.5,-765.2
+PVH,422,,apparel,6043,433.8
+Molina Healthcare,423,,health care: insurance and managed care,6028.8,9.8
+Cliff Natural Resources,424,,"mining, crude-oil production",6024.3,-899.4
+General Cable,425,,"electronics, electrical equipment",6014.3,4
+Shaw Group,426,bought by CB&I,"engineering, construction",6008.4,198.9
+Dr Pepper Snapple Group,427,,beverages,5995,629
+Expeditors International of Washington,428,,transportation & logistics,5980.9,333.4
+Harris,429,,network and other communications equipment,5964,30.6
+AK Steel Holding,430,,metals,5933.7,-1027.3
+SPX,431,,industrial machinery,5925.2,259.2
+Actavis,432,,pharmaceuticals,5914.9,97.3
+Newell Rubbermaid,433,,"home equipment, furnishings",5902.7,401.3
+Fidelity National Information Services,434,,financial data services,5888.1,461.2
+Targa Resources,435,,pipelines,5885.7,38.1
+Booz Allen Hamilton Holding,436,,information technology services,5859.2,240
+Dick's Sporting Goods,437,,specialty retailers: other,5836.1,290.7
+W.R. Berkley,438,,insurance: property and casualty (stock),5823.6,510.6
+Live Nation Entertainment,439,,entertainment,5819,-163.2
+Allergan,440,,pharmaceuticals,5806.1,1098.8
+NCR,441,,"computers, office equipment",5792,146
+Mohawk Industries,442,,zMiscellaneous,5788,250.3
+Auto-Owners Insurance,443,,insurance: property and casualty,5747.7,435.6
+Laboratory Corp. of America,444,,health care: pharmacy and other services,5671.4,583.1
+Western Union,445,,financial data services,5664.8,1025.9
+Joy Global,446,,construction and farm machinery,5660.9,762
+Energy Future Holdings,447,,energy,5636,-3360
+MeadWestvaco,448,,"packaging, containers",5594,205
+Harley-Davidson,449,,transportation equipment,5580.5,623.9
+Con-way,450,,transportation & logistics,5580.2,104.5
+MRC Global,451,,"oil and gas equipment, services",5570.9,118
+J.M. Smucker,452,,food consumer products,5525.8,459.7
+Exelis,453,,aerospace and defense,5522,330
+Biogen Idec,454,,pharmaceuticals,5516.5,1380
+Erie Insurance Group,455,,insurance: property and casualty (stock),5512,160
+Celegene,456,,pharmaceuticals,5506.7,1456.2
+St. Jude Medical,457,,medical products and equipment,5503,752
+Domtar,458,,forest and paper products,5482,172
+Calpine,459,,energy,5478,199
+Susser Holdings,460,,specialty retailers: other,5469.6,46.7
+Clorox,461,,household and personal products,5468,541
+Kelly Services,462,,temporary help,5450.5,50.1
+Consol Energy,463,,"mining, crude-oil production",5430.3,388.5
+Advance Micro Devices,464,,semiconductors and other electronic components,5422,-1183
+Graybar Electric,465,,wholesalers: diversified,5413.3,86.3
+Big Lots,466,,specialty retailers: other,5400.1,177.1
+Gannett,467,,"publishing, printing",5353.2,424.3
+Telephone & Data Systems,468,,telecommunications,5345.3,81.9
+Host Hotels & Resorts,469,,real estate,5323,61
+Insight Enterprises,470,,wholesalers: electronics and office equipment,5301.4,92.8
+Western & Southern Financial Group,471,,"insurance: life, health (mutual)",5293.7,137.7
+Andersons,472,,wholesalers: food and grocery,5272,79.5
+Priceline.com,473,,internet services and retailing,5261,1419.6
+United Natural Foods,474,,wholesalers: food and grocery,5236,91.3
+Spectra Energy,475,,pipelines,5174,940
+Owens Corning,476,,"building materials, glass",5172,-19
+Avaya ,477,,network and other communications equipment,5171,-344
+Wynn Resorts,478,,"hotels, casinos, resorts",5154.3,502
+Bemis,479,,"packaging, containers",5139.2,173.8
+NiSource,480,,utilities: gas and electric,5102.7,416.1
+MetroPCS Communications,481,,telecommunications,5101.3,394.2
+Facebook,482,,internet services and retailing,5089,53
+Pepco Holdings,483,,utilities: gas and electric,5081,285
+United Stationers,484,,wholesalers: electronics and office equipment,5080.1,111.8
+American Financial Group,485,,insurance: property and casualty (stock),5062,488
+J.B. Hunt Transport Services,486,,"trucking, truck leasing",5055,310.4
+SanDisk,487,,semiconductors and other electronic components,5052.5,417.4
+Charles Schwab,488,,securities,5049,928
+Pitney Bowes,489,,"computers, office equipment",5039.2,445.2
+Allegheny Technologies,490,,metals,5031.5,158.4
+Jones Financial,491,,securities,5027.4,555
+Frontier Communications,492,,telecommunications,5011.9,136.6
+Timken,493,,industrial machinery,4987,495.5
+Yahoo,494,,internet services and retailing,4986.6,3945.5
+JetBlue Airways,495,,airlines,37152,-723
+Old Republic International,496,,insurance: property and casualty (stock),4970.1,-68.6
+Simon Property Group,497,,real estate,4880.1,1434.5
+YRC Worldwide,498,,"trucking, truck leasing",4850.5,-140.4
+CA,499,,computer software,4829,951
+Nash-Finch,500,"Recently Aquired by Spartan Companies (Now ""SpartanNash"")",wholesalers: food and grocery,4820.8,-93.9
